@@ -12,12 +12,15 @@ import org.apache.http.message.BasicNameValuePair;
 import org.apache.http.util.EntityUtils;
 
 import java.io.*;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
+
 
 /**
- * 用来发送httpclient请求的工具类
- *
- * @author yangchd 2017-09-28
+ * create by yangchd 2017-09-28
+ * HttpClient工具类
  */
 public class HttpClientUtil {
 

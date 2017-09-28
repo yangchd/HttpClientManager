@@ -1,7 +1,7 @@
 # HttpClientUtil
-这个例子是使用java语言编写的
+这个例子是使用java语言编写的 jdk1.8
 
-导入了HttpClient4.5版本的jar包
+导入了HttpClient4.5.2版本的jar包
 
 目前提供方法
 
