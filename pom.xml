@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.yangchd</groupId>
-    <artifactId>simple-util</artifactId>
+    <groupId>com.yangchd.util</groupId>
+    <artifactId>httpclient</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
@@ -14,8 +14,6 @@
             <artifactId>httpclient</artifactId>
             <version>4.5.2</version>
         </dependency>
-
     </dependencies>
-
 
 </project>

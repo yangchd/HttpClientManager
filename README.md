@@ -1,7 +1,9 @@
 # HttpClientUtil
-这个例子是使用java语言编写的 jdk1.8
+这个例子是使用java语言编写的 
 
-导入了HttpClient4.5.2版本的jar包
+jdk版本1.8
+
+HttpClient4.5.2版本的jar包
 
 目前提供方法
 
@@ -17,5 +19,5 @@ String doPostMethod(String url, Map<String, Object> data, Map<String, String> he
 
 3、文件下载方法
 
-String getFileByUrl(String url, String savePath) throws Exception
+String getFileByUrl(String url, String savePath) throws IOException
 
